@@ -1,13 +1,10 @@
-
 print('''
 1 - Desenvolvimento de Sistema
 2 - Edifiçãoes
 3 - Multiídias
-
 ''')
 
 curso = int(input("Insira seu curso: "))
-
 
 print(f'''
  2 para Segunda-Feira
